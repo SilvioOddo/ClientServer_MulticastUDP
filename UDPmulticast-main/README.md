@@ -1,6 +1,6 @@
 <h1 align="center">MulticastSocket UDP</h1>
 
-<p align="center" style="font-family: monospace">Monica Ciuchetti <a href="https://github.com/mciuchetti">@mciuchetti</a></p>
+<p align="center" style="font-family: monospace">Silvio Oddo <a href="https://github.com/SilvioOddo">@@SilvioOddo</a></p>
 <p align="center" style="font-family: monospace">Corso TPSIT <a href="https://www.avoltapg.edu.it/">ITTS A. Volta (PG)</a></p>
 
 ## Descrizione
