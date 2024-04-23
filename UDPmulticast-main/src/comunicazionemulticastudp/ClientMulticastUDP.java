@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Monica Ciuchetti
+ * @author Luca Brunori - Silvio Oddo - Gabriele Silla
  * @see https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control
  */
 public class ClientMulticastUDP {
